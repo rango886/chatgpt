@@ -1,0 +1,9 @@
+{
+  "test": {
+    "token": "access token / session token / refresh token / share token"
+  },
+  "test2": {
+    "token": "access token / session token / refresh token / share token",
+    "password": "12345"
+  }
+}
