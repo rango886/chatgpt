@@ -1,1 +1,1 @@
-web: chmod+x PandoraNext&&PandoraNext
+web: PandoraNext
